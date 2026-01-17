@@ -1,0 +1,5 @@
+2025/12/30-13:59:35.434 5728 Creating DB C:\GitHub\miku-miku-miiiiii\server\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/12/30-13:59:35.827 5728 Reusing MANIFEST C:\GitHub\miku-miku-miiiiii\server\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/30-13:59:35.829 5728 Recovering log #4
+2025/12/30-13:59:35.841 5728 Reusing old log C:\GitHub\miku-miku-miiiiii\server\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2025/12/30-13:59:35.848 5728 Delete type=2 #5

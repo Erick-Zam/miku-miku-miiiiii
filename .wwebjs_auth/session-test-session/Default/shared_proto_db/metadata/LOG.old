@@ -1,0 +1,4 @@
+2025/12/29-11:21:58.871 4190 Creating DB C:\GitHub\miku-miku-miiiiii\.wwebjs_auth\session-test-session\Default\shared_proto_db\metadata since it was missing.
+2025/12/29-11:21:59.007 4190 Reusing MANIFEST C:\GitHub\miku-miku-miiiiii\.wwebjs_auth\session-test-session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/12/29-11:21:59.042 4190 Recovering log #3
+2025/12/29-11:21:59.049 4190 Reusing old log C:\GitHub\miku-miku-miiiiii\.wwebjs_auth\session-test-session\Default\shared_proto_db\metadata/000003.log 
